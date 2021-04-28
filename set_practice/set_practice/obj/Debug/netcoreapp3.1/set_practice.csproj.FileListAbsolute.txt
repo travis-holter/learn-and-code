@@ -1,0 +1,13 @@
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\bin\Debug\netcoreapp3.1\set_practice.exe
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\bin\Debug\netcoreapp3.1\set_practice.deps.json
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\bin\Debug\netcoreapp3.1\set_practice.runtimeconfig.json
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\bin\Debug\netcoreapp3.1\set_practice.runtimeconfig.dev.json
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\bin\Debug\netcoreapp3.1\set_practice.dll
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\bin\Debug\netcoreapp3.1\set_practice.pdb
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\obj\Debug\netcoreapp3.1\set_practice.csprojAssemblyReference.cache
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\obj\Debug\netcoreapp3.1\set_practice.AssemblyInfoInputs.cache
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\obj\Debug\netcoreapp3.1\set_practice.AssemblyInfo.cs
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\obj\Debug\netcoreapp3.1\set_practice.csproj.CoreCompileInputs.cache
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\obj\Debug\netcoreapp3.1\set_practice.dll
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\obj\Debug\netcoreapp3.1\set_practice.pdb
+C:\Users\travis.holter\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Projects\C# in a day\set_practice\set_practice\obj\Debug\netcoreapp3.1\set_practice.genruntimeconfig.cache
