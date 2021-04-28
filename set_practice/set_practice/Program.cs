@@ -95,7 +95,7 @@ namespace set_practice
                 if (MatchNumber(first, second, third) == "neither") { neither += 1; }
                 if (MatchNumber(first, second, third) == "all same") { same += 1; }
 
-                if(unique == 3 && same == 1)
+                if(neither == 0)
                 {
                     return true;
                 }
